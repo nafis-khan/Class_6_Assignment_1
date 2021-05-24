@@ -1,0 +1,203 @@
+
+*{
+    margin: 0px;
+    padding: 0;
+}
+
+
+.header{
+    border-bottom: 1px solid gainsboro;
+}
+
+header {
+
+    width: 90%;
+    margin-left: 5%;
+    overflow: hidden;
+    padding: 20px 0;
+}
+
+.logo{
+    width: 20%;
+    float: left;}
+
+.logo img{
+    width: 35%;
+}
+
+nav{
+    width: 40%;
+    float: right;
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav ul li{
+    float: left;
+    margin-left: 30px;
+    text-transform: capitalize;
+    font-size: 20px;
+    color: #474746;
+}
+
+
+.content{ 
+    width: 60%;
+    margin-left: 20%;
+    text-align: center;
+    }
+    
+.content h1{
+    font-size: 50px;
+    text-transform: capitalize;
+    margin-top: 30px;
+    }
+    
+.content h2{
+    
+    color: #008AFF;
+    text-transform: capitalize;
+    font-size: 50px;
+    margin: 15px 0;
+    }
+    
+    
+.content p{
+    
+    color: #3F3C57;
+    margin: 20px;
+    font-size: 20px;
+    }
+    
+    
+.content img{
+    width: 53%;
+    }
+
+
+
+
+.success{
+        overflow: hidden;
+        width: 70%;
+        Margin:  auto;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        }
+    
+.success_left_content{
+    
+    width: 48%;
+    float: left;  
+    text-align: right;
+    }   
+    
+.success_left_content h1{
+    
+    color: #F15767;
+    font-size: 50px;
+    }
+    
+.success_left_content p{
+    
+    color: #0F2656;
+    font-size: 22PX;
+    }
+    
+    
+    
+.success_right_content{
+    
+    width: 48%;
+    float: right;
+    }
+    
+    
+.success_right_content h1{
+    
+    color: #0F2656;
+    font-size: 55px;
+    }
+
+
+.feature_section{
+   
+        width: 90%; 
+        margin:auto;
+        overflow: hidden;
+        margin-bottom: 70px;
+           
+    }
+        
+
+.feature_one{
+                        
+    width: 26%;                   
+    float: left;             
+    text-align: center;
+    background: #FDEBED;              
+    padding: 50px 30px;
+    }
+
+
+.feature_two{
+            
+    width: 26%;    
+    float: left;
+    margin-left: 5%;
+    text-align: center;
+     background: #EAF9F4;
+    padding: 50px 30px
+    }
+
+ 
+.feature_three{
+
+        width: 26%;
+        float: right;
+        text-align: center;
+        background:#FEF8E9;
+        padding: 50px 30px
+        }
+            
+.feature_one img, .feature_two img, .feature_three img{
+        width: 300px;
+       
+    }
+    
+.feature_one h2, .feature_two h2, .feature_three h2{
+        text-align: left;
+        color: #0F2656;
+        margin-bottom: 15px;
+        margin-top: 15px;
+
+    }
+    
+.feature_one p, .feature_two p, .feature_three p{
+        text-align: left;
+        color: #0F2656
+    
+    
+    }
+
+    footer{
+        background: #008AFF;
+        text-align: center;
+        padding: 40px 0;
+    }
+
+    footer p{
+        color: #8BCAFF;
+        font-size: 18px;
+    }
+    
+    footer p span{
+        color: #fff;
+        font-size: 20px;
+        font-weight: 700;
+        letter-spacing: 2px;
+    }
+        
+    
